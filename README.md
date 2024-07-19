@@ -1,2 +1,1 @@
-shitass dialer
-deal with it
+App representing UI of a PhoneCall Dailer.
